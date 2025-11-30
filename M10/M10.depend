@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1763263459 source:c:\users\acer\documents\habibie\semester 3\struktur data\pratikum\m10\main.cpp
+	"tree.h"
+
+1763260563 c:\users\acer\documents\habibie\semester 3\struktur data\pratikum\m10\tree.h
+	<iostream>
+
+1763263395 source:c:\users\acer\documents\habibie\semester 3\struktur data\pratikum\m10\tree.cpp
+	"tree.h"
+
